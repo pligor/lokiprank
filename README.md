@@ -24,5 +24,6 @@ Find the webcam captures inside the folder where prank.py is located if executed
 
 ## Configuration
 `PHOTO_COUNT = 3` # change the number for more or less photographs
+
 `INITIAL_SECONDS_SLEEP = 10` # change the number if you want to give yourself some more or less time to move out away from the computer
 
