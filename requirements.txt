@@ -1,0 +1,9 @@
+Pillow==6.0.0
+PyAutoGUI==0.9.45
+pygame==1.9.6
+PyGetWindow==0.0.6
+PyMsgBox==1.0.7
+PyRect==0.1.4
+PyScreeze==0.1.22
+python3-xlib==0.15
+PyTweening==1.0.3
